@@ -37,8 +37,10 @@ const workoutSchema = new Schema(
             }
         ]
     },
+    {
     toJSON: {
         virtuals: true
+    }
     }
 );
 //exercise, not excercise
