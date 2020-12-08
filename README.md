@@ -55,7 +55,3 @@ You are required to submit the following:
 * The URL to the deployed application
 
 * The URL to the GitHub repository
-
-
-
-I've tried for many hours. I've used as many resources as I could without inconveniencing anyone. I just couldn't build it correctly. I've failed. I did what I could and it's still not enough.
