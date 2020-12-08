@@ -1,4 +1,4 @@
-const { Db } = require("mongodb");
+const { db } = require("mongodb");
 const { db } = require("./models/workout");
 
 module.exports = function(app) {
